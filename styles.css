@@ -29,7 +29,9 @@ body{
     border-radius: 1px;
     padding: 40px 40px 20px;
 }
-
+.wrapper .top .logo .btn{
+	text-align: center;
+}
 .wrapper .header .logo img{
 	display: block;
 	margin: 0 auto 35px;
@@ -55,6 +57,7 @@ body{
 
 .wrapper .header .form .btn{
 	margin: 10px 0;
+	width: 265px;
 	background-color: #3897f0;
     border: 1px solid #3897f0;
     border-radius: 4px;
